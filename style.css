@@ -10,6 +10,10 @@
     color: rgb(75,0,130);
 }
 
+.nav-link:hover{
+    color: #df93f1;
+}
+
 body, html{
     font-family: 'Montserrat', sans-serif;
     line-height: 1.3;
@@ -70,4 +74,8 @@ body{
     border: 1px solid #eee;
     border-radius: 20px;
     text-shadow:none;
+}
+
+i:hover{
+    color: #df93f1;
 }
