@@ -35,6 +35,12 @@ function drawBasic() {
             fill: 'rgba(254, 255, 251, 0)',
             fillOpacity: 0.4
         },
+        annotations: {
+            textStyle: {
+              fontName: 'Montsserrat',
+              fontSize: 18
+            }
+          }
     };
      
     
